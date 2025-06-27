@@ -1,0 +1,8 @@
+.DS_Store
+*.log
+**/.DS_Store
+08_COLLABORATION/Claude_Workspace/Automation_Scripts/Logs/*.log
+08_COLLABORATION/Claude_Workspace/Analysis_Reports/*.txt
+08_COLLABORATION/Claude_Workspace/Analysis_Reports/*.json
+.cache/
+temp/
